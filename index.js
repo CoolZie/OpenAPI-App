@@ -1,7 +1,7 @@
 const express = require('express')
 const { example } = require('./openapi')
 const app = express()
-const port = 3000
+const port = 3500
 
 
 app.get('/', (req, res) => {
