@@ -1,0 +1,1179 @@
+Rôle de la science, de la technologie et de l’innovation
+              dans l’édification de sociétés résilientes, notamment
+              par la contribution des sciences citoyennes
+
+              Rapport du Secrétaire général
+
+
+   Résumé
+                      Le présent rapport passe en revue les principales questions relatives au rôle que
+              jouent la science, la technologie et l’innovation dans l’édification de sociétés résilientes. Il
+              met en lumière l’importance fondamentale que revêt le renforcement de la résilience dans
+              l’optique du développement durable. Une société résiliente donne aux individus qui la
+              composent les moyens d’absorber les chocs, de s’y adapter et de mener toutes leurs
+              activités sans nuire à l’environnement, et repose en outre sur une économie capable de
+              s’auto-organiser pour continuer à fonctionner en temps de crise. La science, la technologie
+              et l’innovation ont un rôle crucial à jouer à tous ces égards. Les technologies numériques
+              ont conféré aux citoyens un plus grand pouvoir d’action. L’innovation favorise la
+              diversification de l’économie et renforce ainsi sa capacité à s’adapter aux chocs. Les
+              nouvelles technologies pourraient contribuer à dissocier développement économique et
+              dégradation de l’environnement. Les sciences participatives reposent sur l’action de
+              bénévoles, qui exploitent ces nouvelles technologies pour faire avancer la science en
+              s’acquittant de diverses tâches, par exemple en collectant des données. Parmi les difficultés
+              rencontrées, certaines sont d’ordre technique et ont trait aux données elles-mêmes, aux
+              technologies nécessaires pour les collecter et à la nécessité de les utiliser avec prudence
+              lorsqu’elles ont été recueillies dans le cadre de projets participatifs. D’autres sont d’ordre
+              social et concernent l’acquisition et l’utilisation des connaissances, dans la mesure où la
+              résilience est fonction des normes sociales et des intérêts antagonistes qui caractérisent une
+              société. D’autres encore sont liées au marché et au caractère évolutif et durable des
+              technologies, nombre d’outils technologiques axés sur la résilience des sociétés étant
+              encore à l’état de prototypes. De plus, il est crucial que les solutions scientifiques,
+              technologiques et novatrices soient elles-mêmes résilientes, faute de quoi elles
+              entraîneraient des perturbations dont les répercussions sur les sociétés pourraient être
+              extrêmement néfastes. En conclusion, le rapport souligne le rôle clef que joue la
+              coopération internationale et présente des propositions de mesures à examiner.
+
+
+
+
+GE.19-03574 (F)      250319    270319
+
+
+E/CN.16/2019/3
+
+
+                Introduction
+                1.      À sa vingt et unième session, tenue à Genève en mai 2018, la Commission de la
+                science et de la technique au service du développement a retenu le point suivant : « Rôle de
+                la science, de la technologie et de l’innovation dans l’édification de sociétés résilientes,
+                notamment par la contribution des sciences citoyennes », parmi ses thèmes prioritaires pour
+                la période intersessions 2018-2019.
+                2.     Le secrétariat de la Commission a convoqué une réunion intersessions du 15 au
+                17 janvier 2019 à Vienne, afin d’aider la Commission à mieux cerner ce thème et à
+                structurer ses débats à sa vingt-deuxième session. Le présent rapport se fonde sur la note
+                thématique élaborée par le secrétariat de la Commission, sur les conclusions de la réunion
+                intersessions, sur les études de pays communiquées par des membres de la Commission, sur
+                des documents concernant la question et sur diverses autres sources 1.
+
+
+       I. Contexte
+
+       A.       Incidence des chocs sur le développement durable
+
+                3.      Les populations du monde entier subissent des chocs en permanence, des crises
+                économiques aux urgences sanitaires en passant par les conflits sociaux, les guerres et les
+                catastrophes naturelles. Les épidémies de maladies telles que le choléra et l’Ebola, par
+                exemple, ont touché des milliers de personnes. En 2016, les conflits ont fait 180 000 morts2.
+                En 2017, les catastrophes naturelles ont touché plus de 95 millions de personnes et causé
+                des pertes et préjudices chiffrés à plus de 337 milliards de dollars des États-Unis3. Les
+                conflits et les catastrophes ont provoqué le déplacement de 30,6 millions de personnes dans
+                143 pays et territoires4. Récemment, deux chocs économiques de grande ampleur, à savoir
+                la crise européenne de la dette souveraine, qui a sévi de 2010 à 2012, et le réalignement des
+                prix mondiaux des produits de base, qui s’est produit entre 2014 et 2016, ont entraîné un
+                ralentissement de l’activité économique, non sans conséquences sur l’emploi et la capacité
+                de nombreux États d’améliorer l’accès aux services publics, notamment aux soins de santé
+                et à l’éducation5.
+                4.     En outre, l’interdépendance économique mondiale a fait naître des menaces de plus
+                en plus complexes et imprévisibles. Les catastrophes naturelles ont perturbé les chaînes
+                d’approvisionnement, avec pour corollaire, bien souvent, de lourds dégâts matériels et des
+                pertes économiques considérables, susceptibles d’avoir des répercussions sur de multiples
+                secteurs et économies. Une autre menace complexe réside dans le risque d’une catastrophe
+                technologique provoquée par un phénomène naturel, comme l’accident de la centrale
+                nucléaire de Fukushima Daiichi, dont la principale cause était un tsunami déclenché par le
+                séisme survenu dans la région de Tōhoku le 11 mars 20116.
+                5.     De tels chocs freinent considérablement le progrès sur la voie du développement
+                durable. C’est pourquoi le renforcement de la résilience des personnes, des groupes sociaux
+
+            1   La note thématique et tous les exposés et contributions présentés à la réunion intersessions qui sont
+                mentionnés dans le présent rapport peuvent être téléchargés à l’adresse suivante : https://unctad.org/
+                en/pages/MeetingDetails.aspx?meetingid=2026 (date de consultation : 15 février 2019).
+            2   Organisation mondiale de la Santé (OMS), 2018, World Health Statistics 2018 : Monitoring Health
+                for the [Sustainable Development Goals] SDGs, Genève.
+            3   Calculs de la CNUCED, d’après des données issues de la base de données sur les situations d’urgence
+                du Centre de recherche sur l’épidémiologie des catastrophes, qui relève de l’Université catholique de
+                Louvain. Le site Web de la base de données est accessible à l’adresse suivante : www.emdat.be (date
+                de consultation : 15 février 2019).
+            4   Observatoire des situations de déplacement interne, 2018, GRID 2018 : Global Report on Internal
+                Displacement, Conseil norvégien pour les réfugiés.
+            5   Nations Unies, 2018, World Economic Situation and Prospects 2018 (New York, numéro de vente :
+                E.18.II.C.2).
+            6   Voir https://ec.europa.eu/jrc/en/research-topic/technological-accidents-triggered-natural-disasters
+                (date de consultation : 21 février 2019).
+
+
+2                                                                                                                        GE.19-03574
+                                                                                                                 E/CN.16/2019/3
+
+
+                  et des pays est essentiel à l’exécution du Programme de développement durable à
+                  l’horizon 2030 et à la réalisation des objectifs de développement durable.
+
+
+        B.        Résilience, réduction des risques et développement durable
+
+                  6.       Aux fins du présent rapport, la notion de « résilience » s’entend selon une définition
+                  harmonisée à l’échelle du système des Nations Unies, que le Comité de haut niveau sur les
+                  programmes du Conseil des chefs de secrétariat des organismes des Nations Unies pour la
+                  coordination a approuvée et intégrée dans un cadre analytique onusien applicable au risque
+                  et à la résilience. Selon cette définition, qui figure dans le rapport du Comité de haut niveau
+                  sur les programmes sur les travaux de sa trente-quatrième session, la résilience désigne la
+                  capacité des personnes, des ménages, des collectivités, des villes, des institutions, des
+                  systèmes et des sociétés de prévenir un ensemble varié de risques ainsi que d’y résister, de
+                  les absorber, de s’y adapter, d’y réagir et de se rétablir de façon positive, efficiente et
+                  efficace tout en continuant de fonctionner de façon acceptable, sans compromettre les
+                  perspectives à long terme relatives au développement durable, à la paix et la sécurité, aux
+                  droits de l’homme et au bien-être de tous7.
+                  7.      L’accent mis sur la résilience des sociétés suppose de mettre sur le devant de la
+                  scène les personnes qui composent ces sociétés et qui agissent dans leur sphère d’influence,
+                  en prenant en considération leurs relations sociales et leurs activités économiques, ainsi que
+                  les ressources et l’infrastructure à leur disposition8. Compte tenu des trois dimensions du
+                  développement durable, une société résiliente est une société organisée de telle sorte que
+                  ses membres disposent de moyens suffisants pour mieux absorber les chocs et s’y adapter.
+                  Pareille société doit reposer sur une économie diversifiée, qui soit capable de s’adapter à
+                  l’évolution de la situation et de s’auto-organiser pour continuer à fonctionner en temps de
+                  crise, et dont les acteurs mènent toutes leurs activités sans nuire à l’environnement.
+                  8.     Il est primordial, pour renforcer la résilience des sociétés, d’associer pleinement et
+                  d’emblée leurs membres aux interventions, projets et stratégies. Il importe de promouvoir la
+                  mobilisation et la participation des citoyens pour donner à ceux-ci les moyens d’agir
+                  rapidement et de trouver des solutions à leurs propres problèmes.
+
+
+       C.         Le rôle de la science, de la technologie et de l’innovation
+                  dans le renforcement de la résilience : un cadre d’analyse
+
+                  9.      La science, la technologie et l’innovation contribuent à la résilience en ce qu’elles
+                  donnent des moyens d’action et une voix aux personnes, notamment aux plus vulnérables,
+                  élargissent l’accès à l’éducation et aux soins de santé, rendent possible la surveillance des
+                  risques écologiques, rapprochent les gens et facilitent l’élaboration de systèmes d’alerte
+                  précoce. L’innovation stimule la diversification économique, permettant ainsi à l’économie
+                  de s’adapter aux chocs et de croître. Appliquée aux infrastructures, elle prévient les
+                  défaillances et les incidences négatives sur les sociétés. En outre, les nouvelles technologies
+                  et les produits et services innovants pourraient contribuer à dissocier développement
+                  économique et dégradation de l’environnement, et donc à favoriser la viabilité écologique.
+                  10.   L’idée étant de faire émerger un débat ciblé, le présent rapport couvre les aspects
+                  fondamentaux suivants :
+                         a)     Technologie : l’évolution rapide de la technologie ouvre de nouvelles voies
+                  vers la résilience des sociétés. Bien que les technologies traditionnelles aient leur
+                  importance, le présent rapport porte essentiellement sur les technologies nouvelles et
+                  commercialisables, de manière à mettre en avant les progrès récents et les nouveaux
+                  débouchés ;
+
+
+
+              7   CEB/2017/6, p. 25.
+              8   Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge (FICR), 2012,
+                  Characteristics of a Safe and Resilient Community (Genève).
+
+
+GE.19-03574                                                                                                                  3
+E/CN.16/2019/3
+
+
+                          b)      Science : diverses disciplines scientifiques contribuent au renforcement de la
+                  résilience des sociétés. Partant de ce constat, le présent rapport met l’accent sur le recours
+                  aux savoirs autochtones et sur les nouveaux moyens d’encourager les citoyens à contribuer
+                  et à participer à la recherche scientifique en faveur de la résilience ;
+                          c)     Innovation : le rapport présente les systèmes d’innovation qui contribuent à la
+                  résilience des sociétés, ainsi que de nouvelles façons de mettre l’innovation au service de la
+                  résilience grâce aux technologies numériques.
+
+
+      II. La technologie au service du renforcement de la résilience
+          des sociétés
+
+       A.         Renforcer la résilience sociale
+
+        1.        Réduire les vulnérabilités et renforcer la capacité de surmonter les difficultés
+                  11.     Les restrictions d’accès aux soins de santé et à l’éducation accentuent les
+                  vulnérabilités. À cet égard, les technologies modernes de l’information et de la
+                  communication, y compris les technologies satellitaires et mobiles, facilitent l’accès aux
+                  services de santé grâce à la télémédecine, notamment pour les populations rurales et isolées.
+                  De nouveaux vaccins et de nouvelles stratégies ont été mis au point pour endiguer les
+                  épidémies de maladies telles que l’Ebola et contribuent aussi à l’accroissement de la
+                  résilience des sociétés. Des drones sont utilisés pour acheminer des vaccins et des
+                  fournitures médicales dans les zones rurales des pays en développement9.
+                  12.    L’utilisation des ordinateurs, des tablettes et des smartphones rend possible la
+                  formation en ligne et donne accès rapidement à des informations utiles, améliorant par-là
+                  même la capacité de résister aux chocs. Par exemple, les applications mobiles à vocation
+                  éducative sont complémentaires de l’action menée pour renforcer la capacité des
+                  populations à se préparer aux catastrophes, à y faire face et à se relever par la suite ; les
+                  smartphones permettent d’enregistrer des vidéos, de les diffuser sur les médias sociaux et
+                  de mettre ainsi en avant divers moyens par lesquels les citoyens peuvent renforcer leurs
+                  propres capacités ; par ailleurs, des jeux numériques ont servi à la formation aux
+                  interventions d’urgence par simulation informatique.
+
+        2.        Évaluer, surveiller et gérer les risques
+                  13.     La réduction d’un risque suppose d’avoir la capacité d’évaluer et de surveiller ce
+                  risque. Des capteurs peu coûteux et adaptés (limnimètres, sismographes, etc.), qui reposent
+                  sur des logiciels ouverts, peuvent venir renforcer les réseaux de surveillance. À titre
+                  d’exemple, il convient de mentionner un projet dans le cadre duquel des citoyens installent
+                  à l’extérieur de leur domicile des instruments de mesure qu’ils ont construits eux-mêmes
+                  pour recueillir et transmettre des données qui serviront à mettre à jour des cartes de la
+                  pollution aux particules fines10. Les citoyens communiquent aussi des informations
+                  collaboratives sous la forme de photographies et de contenus géolocalisés et horodatés,
+                  qu’ils publient notamment sur les médias sociaux. On parle alors d’« information
+                  géographique volontaire ». Les smartphones équipés de capteurs, par exemple d’appareils
+                  photo, d’accéléromètres ou de microphones, peuvent également servir à des fins de suivi et
+                  d’observation scientifique.
+                  14.    Outre les capteurs sur site, la surveillance de l’environnement repose sur la
+                  télédétection, rendue possible par les satellites et les drones. Les technologies satellitaires
+
+
+              9   Voir, par exemple, Rwanda Biomedical Center, 2016, Rwanda launches the first drone medical
+                  deliveries project, 14 octobre. Disponible à l’adresse suivante : www.rbc.gov.rw/IMG/pdf/press_
+                  release_medical_drones_deliveries.pdf (date de consultation : 15 février 2019) ; Rosen J. W., 2017,
+                  Zipline’s ambitious medical drone delivery in Africa, in MIT Technology Review, 8 juin. Disponible à
+                  l’adresse suivante : www.technologyreview.com/s/608034/blood-from-the-sky-ziplines-ambitious-
+                  medical-drone-delivery-in-africa (date de consultation : 15 février 2019).
+             10   Voir https://luftdaten.info/en/home-en/ (date de consultation : 15 février 2019).
+
+
+4                                                                                                                        GE.19-03574
+                                                                                                                    E/CN.16/2019/3
+
+
+                   sont essentielles à la préparation aux catastrophes et à l’action d’urgence. Les petits
+                   satellites étant de moins en moins coûteux à fabriquer, les activités tributaires de l’imagerie
+                   haute résolution, comme le contrôle de l’utilisation des sols ou l’aménagement urbain,
+                   deviennent plus abordables elles aussi. Dans le cas de la télédétection, les drones
+                   constituent une solution particulièrement économique. Ces appareils peuvent notamment
+                   servir au contrôle de l’utilisation des sols et à l’établissement rapide de cartes en cas
+                   d’urgence, et être utilisés en conjonction avec des plateformes d’externalisation ouverte, qui
+                   permettent de marquer les images transmises en direct par des drones survolant une zone
+                   sinistrée.
+                   15.     L’externalisation ouverte est également utilisée pour établir des cartes numériques
+                   d’évaluation des risques. À cet égard, il convient de citer le projet YouthMappers de
+                   l’Agence des États-Unis pour le développement international11, dans le cadre duquel s’est
+                   créé un réseau international d’universités dont les étudiants établissent des cartes de
+                   résilience au moyen de données géographiques ouvertes12, et l’initiative Community
+                   Maps13, qui vise à offrir des services de cartographie participative.
+                   16.     L’une des clefs de la résilience des sociétés réside dans la mise en place de systèmes
+                   locaux d’alerte précoce, qui doivent être reliés aux systèmes nationaux. Aux États-Unis, par
+                   exemple, les autorités locales diffusent les alertes émises par le système d’alerte intégré et
+                   public de la Federal Emergency Management Agency (Agence fédérale de gestion des
+                   situations d’urgence). Les technologies mobiles offrent de nouvelles possibilités d’alerte
+                   précoce. Ainsi, aux Philippines, un système d’alerte précoce au sortir de situations
+                   d’urgence extrême et de catastrophes a été mis en place et consiste, pour les travailleurs
+                   sanitaires, à transmettre des comptes rendus à une base de données centrale depuis leur
+                   téléphone portable pour faciliter la détection des maladies les plus communes en situation
+                   d’urgence14.
+
+        3.         Intervenir en cas d’urgence
+                   17.     Les interventions en cas d’urgence reposent sur la communication rapide de
+                   l’information dans un souci de coordination des opérations, et les technologies ouvrent de
+                   nouvelles possibilités à cet égard. Les secouristes peuvent par exemple utiliser leur
+                   téléphone portable ou des « routeurs portatifs » pour créer un réseau local sans fil en
+                   situation d’urgence. Au lendemain d’une catastrophe, les technologies mobiles servent
+                   aussi à mener des enquêtes interactives sur les dégâts occasionnés et les besoins de la
+                   population, comme l’illustre le projet « Analyse et cartographie de la vulnérabilité » du
+                   Programme alimentaire mondial (PAM)15.
+                   18.     En cas de catastrophe, les citoyens se tournent de plus en plus souvent vers les
+                   médias sociaux pour obtenir et partager des informations. Des organismes locaux utilisent
+                   ces médias sociaux pour faire des citoyens des informateurs et des intervenants de première
+                   ligne. Cette approche fait naître une prise de conscience partagée de la situation et associe
+                   la population au renforcement de la résilience. Les organismes et les organisations non
+                   gouvernementales se tiennent à l’écoute des médias sociaux pour mieux apprécier la
+                   situation, notamment pour avoir une idée des besoins pressants, des ressources disponibles
+                   et des moyens mis en œuvre.
+                   19.    L’analyse des données et les mégadonnées peuvent aussi faciliter les interventions
+                   d’urgence. Par exemple, lors d’une épidémie de fièvre typhoïde, le Ministère ougandais de
+                   la santé s’est servi d’outils de cartographie des données pour décider de la répartition des
+                   médicaments et de la mobilisation des équipes de santé 16. Des études consacrées aux
+
+              11   Voir www.youthmappers.org (date de consultation : 15 février 2019).
+              12   Voir https://communitymaps.org.uk/welcome (date de consultation : 15 février 2019).
+              13   Voir http://mappingforchange.org.uk (date de consultation : 15 février 2019).
+              14   Voir www.wpro.who.int/philippines/areas/emergencies_disasters/speed/en (date de consultation :
+                   15 février 2019).
+              15   Voir www.wfp.org/content/2016-mobile-vulnerability-analysis-mapping-mvam (date de
+                   consultation : 27 février 2019).
+              16   Initiative Global Pulse, OMS et Ministère ougandais de la santé, 2015, Data visualisation and
+                   interactive mapping to support response to disease outbreak, Project Series no 20.
+
+
+GE.19-03574                                                                                                                     5
+E/CN.16/2019/3
+
+
+                  partenariats avec les opérateurs mobiles ont révélé que les données des téléphones
+                  portables, une fois regroupée et anonymisées, pouvaient être utilisées pour évaluer
+                  rapidement les mouvements de population après une situation d’urgence, améliorant la
+                  gestion des catastrophes17. À la suite d’une catastrophe, les données relatives aux
+                  transactions financières peuvent servir à mieux apprécier le degré de résilience économique
+                  des populations et à estimer les pertes économiques au niveau local, et donc à cibler les
+                  interventions d’urgence18. L’analyse des données et les mégadonnées améliorent également
+                  l’efficacité de l’assistance apportée aux populations. L’Organisation mondiale de la Santé,
+                  par exemple, assure le suivi des situations d’urgence sanitaire à l’échelle mondiale et décide
+                  des mesures à prendre à l’aide d’un tableau de bord, dont elle s’est notamment servi pour
+                  surveiller l’épidémie d’Ebola qui s’est déclarée en République démocratique du Congo
+                  en 2018 et l’épidémie de choléra survenue au Zimbabwe la même année 19.
+
+
+       B.         Renforcer la résilience économique
+
+        1.        Accroissement des débouchés et de la diversification économiques
+                  20.    La diversification économique est une stratégie de renforcement de la résilience
+                  courante, en particulier dans les sociétés où l’abondance des ressources et l’activité
+                  économique fluctuent, comme c’est notamment le cas dans les communautés rurales et dans
+                  celles qui sont tributaires du tourisme ou de la pêche. Elle reste toutefois un défi pour les
+                  pays pauvres, qui sont dotés de faibles capacités productives. Dans les sociétés plus
+                  avancées sur le plan technologique, qui ont accès à l’Internet à haut débit et aux
+                  technologies modernes de l’information et de la communication, les nouvelles technologies,
+                  telles que l’intelligence artificielle, les mégadonnées et l’impression 3D, pourraient
+                  favoriser l’émergence de nouveaux secteurs. La diversification économique peut aussi être
+                  le résultat d’une évolution des savoir-faire, des méthodes, des procédures, des normes ou
+                  des réglementations. L’évolution des normes sociales peut par exemple faciliter l’accès des
+                  femmes aux ressources productives et, par voie de conséquence, la création de nouvelles
+                  entreprises.
+
+        2.        Accès à l’énergie et aux infrastructures de communication20
+                  21.     L’accès aux infrastructures, notamment à l’électricité et aux moyens de
+                  communication, est essentiel au développement et à la résilience des sociétés. Les nouvelles
+                  technologies peuvent épargner aux pays des investissements coûteux dans ces
+                  infrastructures. Ainsi, grâce au progrès rapide de la technologie et à la baisse des coûts,
+                  certains pays en développement, en Afrique et en Asie principalement, ont directement
+                  adopté des systèmes de télécommunications numériques et mobiles, sans passer par le stade
+                  des lignes fixes. Plusieurs pays caractérisés au début des années 2000 par un faible taux de
+                  pénétration de la téléphonie fixe et mobile avaient dépassé en 2017 la moyenne mondiale
+                  de 108,9 abonnements de téléphonie mobile pour 100 habitants 21.
+                  22.     Les nouvelles technologies peuvent contribuer à l’élargissement de l’accès à
+                  l’électricité, ainsi qu’en témoignent par exemple les systèmes énergétiques décentralisés
+                  reposant sur des sources renouvelables. L’analyse de données géospatiales a révélé que,
+                  pour apporter l’électricité à tous les ménages d’Afrique subsaharienne d’ici à 2030, la
+                  solution la plus économique consisterait, dans plusieurs pays, à combiner des sources
+
+
+
+
+             17   Initiative Global Pulse et PAM, 2014, Using mobile phone activity for disaster management during
+                  floods, Project Series no 2.
+             18   Initiative Global Pulse et PAM, 2016, Using financial transaction data to measure economic
+                  resilience to natural disasters, Project Series no 24.
+             19   Contribution de l’OMS.
+             20   Voir CNUCED, 2018, Leapfrogging : look before you leap, décembre, Synthèse de la CNUCED
+                  no 71 (UNCTAD/PRESS/PB/2018/8). Disponible à l’adresse suivante :
+                  https://unctad.org/en/PublicationsLibrary/presspb2018d8_en.pdf.
+             21   Calculs de la CNUCED, d’après des données de l’Union internationale des télécommunications.
+
+
+6                                                                                                                    GE.19-03574
+                                                                                                                          E/CN.16/2019/3
+
+
+                   d’énergie conventionnelles et renouvelables en mettant en place des solutions hors réseau et
+                   des miniréseaux faisant appel à l’énergie photovoltaïque22.
+
+        3.         Inclusion financière et couverture des risques
+                   23.    L’une des caractéristiques fondamentales des sociétés résilientes réside dans la
+                   capacité des individus qui les composent à faire face à l’incertitude financière. Les services
+                   financiers sont une solution, mais de nombreux groupes vulnérables et habitants de zones
+                   rurales et reculées n’y ont pas pleinement accès. Toutefois, la démocratisation rapide des
+                   technologies mobiles a ouvert la voie, en Afrique tout particulièrement, à la création de
+                   services financiers innovants, comme le système de banque mobile M-Pesa au Kenya, qui
+                   favorisent grandement l’inclusion financière. Ainsi, dans les pays d’Afrique subsaharienne,
+                   21 % des adultes étaient titulaires d’un compte en banque mobile en 2017, soit un taux plus
+                   élevé que nulle part ailleurs, la moyenne mondiale s’établissant à 4 % pour la même
+                   année23.
+                   24.    Des innovations telles que l’assurance climatique indicielle ont profité aux
+                   agriculteurs des pays où les marchés financiers agricoles sont insuffisamment développés.
+                   L’assurance indicielle consiste à indemniser l’assuré sur la base d’un indice objectif,
+                   comme la mesure des pluies, qui est utilisé pour estimer les pertes de récoltes ou de bétail.
+                   Les compagnies d’assurance utilisent des images satellites et des modèles informatiques
+                   pour créer des indices en fonction desquels elles verseront les paiements. Toutefois, malgré
+                   leurs avantages évidents24, les contrats d’assurance indicielle restent peu répandus dans les
+                   pays en développement, notamment en raison d’une méconnaissance du fonctionnement
+                   des assurances récoltes, de l’incapacité des agriculteurs à payer les primes et des
+                   imperfections des modèles, qui, par le passé, n’estimaient pas les pertes avec suffisamment
+                   de précision.
+
+
+       C.          Renforcer la résilience environnementale
+
+                   25.     La technologie peut être utilisée pour la surveillance des écosystèmes terrestres et
+                   marins. Par exemple, les données satellitaires et les algorithmes d’apprentissage
+                   automatique sont utilisés pour suivre l’évolution de la couverture forestière et de la densité
+                   de la canopée. L’intelligence artificielle pourrait être utilisée pour recouper les
+                   renseignements concernant les licences d’exploitation forestière avec les données fournies
+                   par les systèmes de cartographie géospatiale pour la surveillance des activités illégales. Les
+                   drones peuvent être utilisés à différentes fins dans le domaine de la gestion des terres et des
+                   ressources, notamment pour assurer le suivi dynamique de l’utilisation des sols, de
+                   l’application de la loi foncière, de l’aménagement du territoire et du remembrement des
+                   terres. La technologie géospatiale est utilisée dans les nouveaux capteurs de télédétection
+                   pour mesurer les composantes du cycle hydrologique, dans les instruments de terrain basés
+                   sur des capteurs au sol, dans les modèles d’intégration de données et de calcul en nuage et
+                   dans les portails électroniques d’information géographique sur l’eau.
+                   26.     Les technologies modernes de l’information et de la communication ouvrent de
+                   nouvelles perspectives de création de produits et de services de niche innovants, comme le
+                   tourisme axé sur la nature, qui favorisent une interaction équilibrée avec la nature. Par
+                   exemple, les applications géospatiales des technologies de l’information et de la
+                   communication peuvent favoriser le tourisme axé sur la nature en facilitant les activités de
+                   plein air écologiques comme la randonnée, le vélo tout-terrain et le canyoning. Les secteurs
+                   respectueux de l’environnement exigent généralement plus de connaissances que les
+
+
+              22   Calculs de la CNUCED, d’après des données recueillies par l’Organisation des Nations Unies et
+                   disponibles à l’adresse suivante : https://un-modelling.github.io/electrification-paths-presentation
+                   (date de consultation : 20 février 2019).
+              23   Demirgüç-Kunt A., Klapper L., Singer D., Ansar S. et Hess J., 2018, The Global Findex Database
+                   2017 : Measuring Financial Inclusion and the Fintech Revolution, Groupe de la Banque mondiale,
+                   Washington, p. xi et 19.
+              24   Voir Skees J. R., 2008, Innovations in index insurance for the poor in lower income countries, in
+                   Agricultural and Resource Economics Review, 37(1) : 1 à 15.
+
+
+GE.19-03574                                                                                                                           7
+E/CN.16/2019/3
+
+
+                 secteurs traditionnels ; en outre, si l’on veut associer les citoyens de manière constructive, il
+                 est essentiel de renforcer leurs capacités.
+
+
+       D.        Caractéristiques des solutions technologiques
+
+                 27.    Les solutions qui permettent de renforcer la résilience des sociétés à l’aide de
+                 nouvelles technologies commercialisables présentent plusieurs caractéristiques communes
+                 en ce qu’elles sont25 :
+                        a)     Polyvalentes : les solutions sont pertinentes et utiles avant, pendant et après
+                 les urgences, ainsi que dans la vie quotidienne. On peut citer les téléphones mobiles et les
+                 smartphones, qui sont utilisés dans diverses solutions telles que l’évaluation et la
+                 surveillance des risques de catastrophe et les systèmes d’intervention d’urgence et d’alerte
+                 précoce ;
+                         b)     Faciles à maîtriser et à utiliser : par exemple, aucune formation officielle
+                 n’est nécessaire pour utiliser les médias sociaux, qui sont donc utiles en cas d’intervention
+                 d’urgence. De même, le fonctionnement et la structure des données des drones utilisés pour
+                 la télédétection ont été simplifiés, ce qui permet à des non-scientifiques d’effectuer des
+                 relevés aériens ;
+                        c)     Évolutives : les solutions doivent pouvoir être mises en œuvre sur une plus
+                 (ou moins) grande échelle pour répondre à la demande. Les médias sociaux utilisés pour les
+                 interventions d’urgence permettent d’atteindre un large public ;
+                        d)      Accessibles et financièrement abordables : en ce qui concerne les
+                 interventions d’urgence, les téléphones mobiles à bas prix sont devenus plus accessibles.
+                 Les drones ont de faibles coûts d’exploitation, ce qui permet de réaliser des missions
+                 fréquentes, et ils offrent une couverture spatiale accrue, ne nécessitent pas de points
+                 d’installation et peuvent être déployés rapidement 26.
+                 28.    Bon nombre de ces caractéristiques des solutions technologiques découlent des
+                 technologies de l’information et de la communication et des possibilités que celles-ci
+                 offrent grâce à la numérisation et à la connectivité. La réduction du coût de ces
+                 technologies a démocratisé l’accès à celles-ci et permis à de nouveaux acteurs et à de
+                 nouvelles formes d’innovation d’apparaître.
+
+
+     III. Science : mettre à profit le savoir autochtone et travailler
+          avec les citoyens pour garantir leur participation
+
+       A.        Créer des synergies avec les savoirs traditionnels, locaux et autochtones
+
+                 29.    La création de synergies avec les savoirs traditionnels, locaux et autochtones
+                 pourrait déboucher sur de nouveaux progrès scientifiques qui contribueraient à bâtir des
+                 sociétés résilientes. Le savoir autochtone s’acquiert généralement grâce à l’interaction avec
+                 l’écosystème naturel et aux travaux visant à assurer la survie à long terme des groupes
+                 sociaux. Ces savoirs contribuent aux efforts visant à : accroître la résilience des sociétés
+                 face aux risques naturels courants (comme les inondations et les sécheresses) et à renforcer
+                 leurs moyens de subsistance (comme l’agriculture, l’élevage et la gestion de la faune
+                 sauvage) ; soutenir les valeurs traditionnelles et renforcer l’identité des sociétés ; et
+                 promouvoir la participation des femmes et des membres des groupes vulnérables, qui sont
+                 d’importants éléments du renforcement de la résilience.
+
+
+
+            25   Croix-Rouge américaine et Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-
+                 Rouge, 2015, A vision for the humanitarian use of emerging technology for emerging needs, p. 14.
+            26   Voir, par exemple, Vousdoukas M. I., Pennucci G., Holman R. A., Conley D. C., 2011, A semi-
+                 automatic technique for rapid environmental assessment in the coastal zone using small unmanned
+                 aerial vehicles (SUAV), Journal of Coastal Research, Special Issue 64 : 1755 à 1759.
+
+
+8                                                                                                                      GE.19-03574
+                                                                                                                    E/CN.16/2019/3
+
+
+                   30.    L’appui des gouvernements et de la communauté internationale est souvent
+                   nécessaire pour utiliser à plus grande échelle, adapter et rendre accessibles ces savoirs. L’un
+                   des moyens d’atteindre ces objectifs consiste à créer des bases de données en ligne sur les
+                   savoirs traditionnels27. Des politiques visant à assurer la transmission intergénérationnelle
+                   continue de ces systèmes de connaissances au sein de leurs sociétés d’origine sont
+                   également nécessaires.
+                   31.    Dans certains pays, les organismes de financement scientifique encouragent le
+                   recours au savoir autochtone pour relever les défis environnementaux. En Afrique du Sud,
+                   par exemple, les systèmes de savoirs autochtones sont l’un des thèmes transversaux du Plan
+                   décennal d’innovation de la National Research Foundation, qui met l’accent, entre autres
+                   questions, sur les changements climatiques28. Au Canada, l’organisme fédéral Savoir
+                   polaire Canada versera 8,1 millions de dollars canadiens de 2017 à 2019 pour financer des
+                   projets faisant appel au savoir autochtone en vue de promouvoir la durabilité et la résilience
+                   face aux effets du changement de l’état des glaces29.
+
+
+        B.         Les sciences participatives au service de l’édification
+                   de sociétés résilientes
+
+                   32.     On entend par « sciences participatives » un mode de production de nouvelles
+                   connaissances scientifiques fondé sur la participation d’acteurs non scientifiques. Cette
+                   approche associe l’Internet, les smartphones et les médias sociaux à des réseaux de capteurs
+                   à faible coût pour fournir de nombreuses informations en temps réel. Les sciences
+                   participatives peuvent également servir à informer et à autonomiser les citoyens et les
+                   parties prenantes qui, autrement, pourraient être laissés de côté par les méthodes plus
+                   classiques de production de connaissances scientifiques.
+                   33.     Cette approche a été suivie pendant un certain temps dans le domaine de la gestion
+                   des risques. Dès les années 1980, il a été reconnu que les projets participatifs d’initiative
+                   locale, qui seraient aujourd’hui considérés comme des projets de science participative,
+                   étaient extrêmement utiles au renforcement des capacités. Cette approche ne se limite pas à
+                   la réduction des risques de catastrophe. Il existe des projets comme le projet Global
+                   Mosquito Alert Consortium, qui porte sur la surveillance et le contrôle à l’échelle mondiale
+                   des espèces de moustiques connues pour être porteuses de maladies 30, et le projet Earth
+                   Challenge 2020, dont l’objectif est de rassembler plus d’un milliard de points de mesure sur
+                   la qualité de l’air et de l’eau, la biodiversité et la santé humaine31.
+
+        1.         Types de sciences participatives
+                   34.    Les sciences participatives pourraient comprendre la collecte, l’interprétation et
+                   l’analyse des données, ainsi que la diffusion des résultats. Dans de nombreux projets, le
+                   rôle des acteurs locaux se limite strictement à la collecte d’informations. Ces « capteurs
+                   citoyens » participent moins à la définition des objectifs et à l’élaboration du projet, mais ils
+                   peuvent néanmoins fournir des données de qualité dans des régions où les données sont
+                   rares. Plus récemment, on a eu tendance à associer des volontaires à tous les aspects
+
+              27   Voir, par exemple, Liu Y. et Sun Y., 2004, China Traditional Chinese Medicine (TCM) Patent
+                   Database, World Patent Information, 26(1), mars : 91 à 96 ; Bibliothèque numérique des savoirs
+                   traditionnels, disponible à l’adresse suivante : http://www.tkdl.res.in/tkdl/LangFrench/Common/
+                   Home.asp?GL=Fre (date de consultation : 18 février 2019) ; Korean Traditional Knowledge Portal,
+                   disponible à l’adresse suivante : www.koreantk.com/ (date de consultation : 18 février 2019) ; et
+                   Genesys − the Global Gateway to Generic Resources, disponible à l’adresse suivante : www.genesys-
+                   pgr.org/ (date de consultation : 18 février 2019).
+              28   Voir www.nrf.ac.za/division/funding/indigenous-knowledge-systems-iks-2019 (date de consultation :
+                   18 février 219).
+              29   Voir https://www.canada.ca/fr/savoir-polaire/nouvelles/2017/12/le_gouvernement_
+                   ducanadaannonceloctroidefondspourdesprojetsdesci.html (date de consultation : 27 février 2019).
+              30   Pour de plus amples renseignements, voir Tyson E., Bowser A., Palmer J., Kapan D., Bartumeus F.,
+                   Brocklehurst M. et Pauwels E., 2018, Global Mosquito Alert : Building Citizen Science Capacity for
+                   Surveillance and Control of Disease-vector Mosquitoes, avril, Wilson Centre.
+              31   Voir www.earthday.org/campaigns/earthchallenge2020/ (date de consultation : 27 février 2019).
+
+
+GE.19-03574                                                                                                                     9
+E/CN.16/2019/3
+
+
+                  intellectuels des projets scientifiques participatifs, les citoyens définissant le problème à
+                  régler et recueillant ensuite les informations nécessaires (par exemple des observations sur
+                  le débit des cours d’eau, la qualité de l’air, les secousses du sol et les dommages causés par
+                  les inondations).
+                  35.     Le fait de recevoir en retour des informations et des données compréhensibles
+                  encourage la population à prendre part aux projets. Par exemple, dans le cadre des projets
+                  hydrologiques, les agriculteurs pourraient être informés des besoins en eau, les décideurs
+                  pourraient avoir accès à une modélisation de l’utilisation de l’eau et de la demande en eau
+                  et la population pourrait recevoir des cartes concernant la vulnérabilité aux inondations 32.
+                  Les technologies fondées sur l’Internet offrent aux utilisateurs des possibilités de retour
+                  d’information et de communication qui vont au-delà du projet de recherche. Lorsque la
+                  fourniture d’informations et le retour d’information du public font partie intégrante du
+                  projet, les taux de participation et d’adhésion des citoyens sont élevés.
+
+        2.        Utilisation de la technologie dans les sciences participatives
+                  36.     Nombreux sont ceux qui assimilent l’augmentation du nombre de projets de
+                  recherche scientifique participative à l’évolution rapide des technologies observée au cours
+                  des dix à quinze dernières années. Aujourd’hui, il est facile de se procurer de petits capteurs
+                  peu coûteux faciles à connecter à des smartphones, généralement connectés à l’Internet et
+                  équipés de caméras sophistiquées. Ces avancées, ainsi que les progrès faits dans le
+                  traitement et l’analyse des données, offrent à la science participative de nouveaux moyens
+                  d’action en vue de renforcer la résilience à l’échelle locale. Les nouvelles technologies de
+                  l’information et de la communication ont accru les échanges de connaissances et de
+                  données, tandis que l’Internet des objets permet de concevoir la recherche, de produire des
+                  connaissances et de fournir des informations au niveau local de manière beaucoup plus
+                  interactive et dynamique. S’il est parfois difficile d’intégrer directement les formes les plus
+                  récentes de matériel et de logiciels novateurs dans les projets de renforcement de la
+                  résilience mis en œuvre dans les pays les moins avancés, il existe néanmoins des
+                  perspectives prometteuses ; on citera par exemple l’utilisation de nouveaux réseaux de
+                  capteurs et de cartes en ligne pour le suivi hydrologique 33, la cartographie géologique34 et
+                  les activités de cartographie des risques35.
+
+
+     IV. L’innovation : une approche de la résilience
+         axée sur des objectifs précis
+
+       A.         Les systèmes d’innovation au service de l’édification de sociétés
+                  résilientes
+
+                  37.    Les systèmes d’innovation permettant de créer des produits et des services afin de
+                  bâtir des sociétés résilientes sont généralement axés sur des objectifs précis, ce qui signifie
+                  que les acteurs du système d’innovation mettent en commun leurs ressources pour résoudre
+
+
+             32   Par exemple, voir Paul J. D., Buytaert W., Allen S., Ballesteros-Cánovas J. A., Bhusal J., Cieslik K.
+                  Clark J., Dugar S., Hannah D. M., Stoffel M., Dewulf A., Dhital M. R., Liu W., Nayaval J. L.,
+                  Neupane B., Schiller A., Smith P. J. et Supper R., 2018, Citizens science for hydrologic risk reduction
+                  and resilience building,[Wiley Interdisciplinary Reviews] WIREs : Water, janvier/février, 5(1).
+             33   Buytaert W., Zulkafli Z., Grainger S., Acosta L., Alemie T.C., Bastiaensen J., De Bièvre B.,
+                  Bhusal J., Alemie T. C., Clark J., Dewulf A., Foggin M., Hannah D. M., Hergarten C., Isaeva A.,
+                  Karpouzoglou T., Pandeya B., Paudel D., Sharma K., Steenhuis T., Tilahun S., Van Hecken G. et
+                  Zhumanova M., 2014, Citizen science in hydrology and water resources : opportunities for
+                  knowledge generation, ecosystem service management, and sustainable development, Frontiers in
+                  Earth Science, 2 : 26.
+             34   Malakar Y., 2014, Community-based rainfall observation for landslide monitoring in western Nepal,
+                  dans : Sassa K., Canuti P. et Yin Y., eds, Landslide Science for a Safer Geo-environment. Volume 2 :
+                  Methods of Landslide Studies, Springer International Publishing : 757 à 764.
+             35   Rieger C., 2016, Demonstrating the capacity of online citizen science mapping software to
+                  communicate natural hazards and engage community participation, Université de Lethbridge, août.
+
+
+10                                                                                                                          GE.19-03574
+                                                                                                           E/CN.16/2019/3
+
+
+              un problème social particulier : par exemple, le besoin d’alerte précoce multirisques, la
+              vaccination contre de nouvelles maladies ou la mise en place de réseaux de communication
+              opérationnels en situation de crise. Ces systèmes d’innovation sont généralement axés sur
+              la mise en œuvre, à un stade ultérieur, de technologies traditionnelles (comme les vaccins et
+              la télédétection) ou de nouvelles technologies commercialisables (comme les applications
+              pour smartphones et les drones à faible coût), à la différence de l’exploration et du
+              développement, à un stade précoce, des nouvelles technologies (comme l’intelligence
+              artificielle et l’édition génomique).
+              38.     La population, les organisations de la société civile, les entrepreneurs sociaux, les
+              établissements d’enseignement et les administrations locales et nationales sont tous des
+              acteurs de ces systèmes d’innovation :
+                     a)     Les citoyens sont les utilisateurs finaux de nombreux produits et services
+              visant à renforcer la résilience et apportent des contributions essentielles concernant la
+              résolution des problèmes ainsi que l’efficacité et l’utilité des solutions proposées ;
+                      b)    Les organisations de la société civile peuvent faire office d’intermédiaires
+              entre l’administration locale, les concepteurs de technologies et les groupes marginalisés, et
+              promouvoir des innovations permettant de répondre aux besoins de ces différents acteurs.
+              Elles peuvent contribuer pour beaucoup à la mise à l’essai, à la promotion et à la diffusion
+              d’innovations conçues pour bénéficier aux groupes les plus défavorisés ;
+                     c)     Les entrepreneurs sociaux contribuent au processus d’innovation en apportant
+              des solutions locales aux problèmes sociaux, culturels et environnementaux locaux. Ils
+              aident à bâtir des sociétés résilientes en s’attaquant aux vulnérabilités existantes et en
+              promouvant des transitions durables ;
+                     d)      Des systèmes éducatifs efficaces renforcent la capacité des citoyens
+              d’apprendre, de s’adapter aux changements et de contribuer au processus d’innovation
+              visant à trouver de nouvelles et meilleures solutions de réduction des risques ;
+                      e)     Les administrations locales fournissent des services et des biens publics
+              locaux qui accroissent la résilience (comme l’éducation, la santé, les transports et les
+              infrastructures de lutte contre les inondations) ;
+                     f)      Les gouvernements nationaux jouent un rôle essentiel pour ce qui est d’axer
+              l’approche de l’innovation sur des objectifs précis, fournissent l’infrastructure publique
+              matérielle et immatérielle nécessaire, encouragent le renforcement des capacités et
+              favorisent l’établissement de liens au sein du système d’innovation.
+              39.     Les systèmes d’innovation efficaces reposent sur des liens solides et évolutifs entre
+              tous les acteurs de la science, de la technologie et de l’innovation mentionnés plus haut. On
+              citera à cet égard la coopération entre les groupes scientifiques et technologiques et les
+              établissements d’enseignement visant à promouvoir la vulgarisation et la diffusion des
+              connaissances sur la résilience.
+              40.     Pour qu’un système d’innovation permette de renforcer efficacement la résilience
+              des sociétés, il faut également mettre en place un environnement favorable. La mise en
+              place des infrastructures devrait privilégier un accès peu coûteux aux technologies de
+              l’information et de la communication et la réduction des fossés numériques. Le cadre
+              réglementaire et directif devrait prévoir un environnement propre à faciliter la planification
+              à long terme axée sur des objectifs précis par les acteurs de l’innovation. La cohérence est
+              nécessaire entre les politiques de la science, de la technologie et de l’innovation et les
+              domaines d’action des pouvoirs publics tels que la santé publique et la réduction des risques
+              de catastrophe. Les institutions et les pouvoirs publics devraient associer la population à la
+              conception et à la mise en œuvre des innovations en matière de renforcement de la
+              résilience. Les entrepreneurs sociaux devraient bénéficier d’un accès flexible au
+              financement. Il faudrait alimenter le capital humain en mettant fortement l’accent sur le
+              renforcement des compétences nécessaires pour utiliser les technologies habilitantes,
+              comme les technologies de l’information et de la communication, et sur la diffusion, dans le
+              système éducatif, des connaissances en matière de résilience. Les normes et pratiques
+              sociales et culturelles devraient promouvoir la participation sans exclusive des femmes, des
+
+
+
+GE.19-03574                                                                                                           11
+E/CN.16/2019/3
+
+
+                 jeunes et des personnes âgées au processus d’innovation en faveur de la résilience des
+                 sociétés.
+
+
+       B.        Nouvelles méthodes d’innovation au service de la résilience
+                 des sociétés36
+
+                 41.    L’innovation en faveur des pauvres et sans exclusive peut accroître la résilience des
+                 sociétés en étendant les avantages de l’innovation à des groupes auparavant exclus, que ce
+                 soit en tant que consommateurs de nouveaux produits et services, ou que participants au
+                 processus d’innovation. L’accent est mis sur l’élaboration de produits et de services à faible
+                 coût destinés à desservir des marchés inexploités, comme les produits médicaux à faible
+                 coût et la télémédecine mobile dans les zones rurales reculées, et sur les innovations qui
+                 offrent aux personnes vivant dans la pauvreté la possibilité d’avoir une activité
+                 commerciale à petite échelle pour accroître leurs revenus.
+                 42.    Les méthodes d’innovation par la base visent à inclure les populations locales dans
+                 le processus d’innovation, ce qui est essentiel à la participation des citoyens aux initiatives
+                 visant à renforcer la résilience. Pour ce faire, il est fait appel à des acteurs locaux qui
+                 expérimentent d’autres formes des processus de création de connaissances et d’innovation.
+                 Par exemple, les systèmes locaux de réduction des risques de catastrophe associent
+                 généralement la population à la mise au point des mécanismes de surveillance et d’alerte
+                 précoce. On peut citer comme autre exemple la conception de solutions innovantes de
+                 paiement mobile fondées sur les technologies de téléphonie mobile de base et non sur les
+                 smartphones, en particulier pour les consommateurs qui se situent à la base de la pyramide.
+                 Les initiatives d’innovation locales, qui sont menées au niveau de la société civile, sont
+                 guidées par les besoins sociaux et environnementaux, fondées sur les échanges mutuels et
+                 les contributions volontaires des acteurs et les connaissances locales et souvent soutenues
+                 par un financement sous forme de subventions.
+                 43.     L’expression « innovation sociale » renvoie à des innovations dans le domaine des
+                 relations, des pratiques et des structures sociales qui visent principalement à répondre aux
+                 besoins sociaux et à améliorer le bien-être de la population. Parmi les exemples
+                 d’innovation sociale visant à renforcer la résilience des sociétés, on peut citer la fourniture
+                 de produits de microfinancement pour réduire la vulnérabilité financière des populations, la
+                 promotion de nouvelles idées d’entreprises locales pour la diversification des moyens de
+                 subsistance et le soutien à l’écoentreprenariat féminin en tant qu’approche du
+                 développement rural local durable.
+
+
+      V. Principaux défis
+
+       A.        Difficultés techniques : données et technologies habilitantes
+                 sous-jacentes
+
+                 44.      Parmi les données utilisées pour guider le renforcement de la résilience, plusieurs
+                 lacunes persistent qui pourraient être comblées par des données issues des sciences
+                 participatives. Pour mieux exploiter ces données, il est nécessaire de mettre en place des
+                 cadres et de fixer des normes qui permettraient d’en faciliter la collecte et la diffusion. Par
+                 exemple, les projets fondés sur les sciences participatives font généralement appel à la
+                 collecte de données provenant de capteurs par des acteurs qui ne sont pas des scientifiques ;
+                 il convient donc de simplifier les caractéristiques du réseau de capteurs afin que les
+                 échantillons soient uniformes. On pourrait également faire un usage accru des données en
+                 les convertissant d’une technologie, plateforme ou application à une autre. Par exemple,
+                 l’utilisation de smartphones pour photographier l’étendue des inondations et le niveau des
+                 cours d’eau permet de créer un réseau très dense de capteurs produits de manière
+
+            36   La présente section s’inspire de CNUCED, 2017, New Innovation Approaches to Support the
+                 Implementation of the Sustainable Development Goals, UNCTAD/DTL/STICT/2017/4 (publication
+                 des Nations Unies, New York et Genève).
+
+
+12                                                                                                                 GE.19-03574
+                                                                                                                        E/CN.16/2019/3
+
+
+                   participative, mais il demeure difficile sur le plan technologique de convertir ces données
+                   afin d’établir des modèles mathématiques et de fournir un retour d’information aux
+                   bénévoles (c’est-à-dire aux acteurs qui ne sont pas des scientifiques) ; des travaux sont en
+                   cours dans ce domaine.
+                   45.    Par ailleurs, il est fréquent que les données en question ne soient pas d’une qualité
+                   suffisante pour permettre l’étalonnage et la validation des modèles mathématiques, ce qui
+                   crée une difficulté supplémentaire. Une solution à ce problème consiste à appliquer de
+                   nouveaux algorithmes de fusion pour combiner des ensembles de données, par exemple des
+                   données pluviométriques recueillies dans le cadre des sciences participatives et des données
+                   obtenues par satellite en ce qui concerne les précipitations. Il pourrait toutefois être
+                   nécessaire de disposer d’orientations sur la mise en œuvre, l’utilisation et la gestion de ces
+                   services de collecte de données.
+                   46.     De plus, les effets de la diminution de la fréquence d’observation, de l’irrégularité
+                   de la disponibilité et de la variabilité de la précision des différents capteurs doivent être
+                   quantifiés avant que les données puissent être intégrées aux modèles mathématiques. Ces
+                   incertitudes au sujet des données empêchent d’appliquer de manière généralisée les données
+                   issues des sciences participatives aux dispositifs de renforcement de la résilience, comme
+                   les systèmes d’alerte rapide en fonctionnement. Il faut tenir compte des incertitudes, par
+                   exemple en établissant des fourchettes d’incertitude. Ces fourchettes pourraient être des
+                   pourcentages approximatifs d’erreur applicables aux niveaux des cours d’eau déterminés
+                   par les caméras des smartphones. En dépit de la rapidité des progrès technologiques, les
+                   données recueillies dans le cadre des sciences participatives sont rarement présentées sous
+                   cette forme du fait de la difficulté de quantifier les incertitudes.
+                   47.    Les médias sociaux étant utilisés pour renforcer la résilience, il convient d’examiner
+                   les questions liées à la fiabilité des informations, à la vie privée et à la protection des
+                   données. Les données en général, qu’elles soient utilisées dans des situations d’urgence
+                   humanitaire ou de catastrophe ou dans le contexte de la préparation aux catastrophes,
+                   rendent nécessaire l’adoption d’approches responsables sur le plan opérationnel en ce qui
+                   concerne la sécurité du stockage des données, la confidentialité et l’anonymat37. À cet
+                   égard, il est nécessaire d’utiliser les données avec prudence et de prendre des mesures pour
+                   protéger la vie privée de la population.
+                   48.     Par ailleurs, il est difficile de créer, dans le cadre de nombreuses approches
+                   directives du renforcement de la résilience institutionnelle, des connaissances qui puissent
+                   être exploitées au niveau local. Par exemple, on surveille généralement le niveau et le débit
+                   des cours d’eau grâce à un réseau clairsemé de jauges qui nécessite un entretien lourd et
+                   complexe sur le plan technologique, ce qui fait que ce réseau est uniquement utilisé par de
+                   grandes institutions bien financées et par des organismes publics officiels. L’utilisation
+                   restreinte du réseau entraîne souvent des problèmes administratifs, voire juridiques,
+                   concernant l’accès aux données, ce qui peut être frustrant pour les utilisateurs locaux.
+                   49.     Le Cadre de Sendai pour la réduction des risques de catastrophe (2015-2030)
+                   préconise fortement de relier la collecte et l’analyse des données à la diffusion des
+                   informations grâce à des interfaces ou applications en ligne conviviales. Cette approche
+                   favorise la construction de systèmes d’aide à la décision et de soutien aux politiques axés
+                   sur les personnes. Ces plateformes ont été décrites comme des observatoires virtuels de
+                   l’environnement38 qui permettent à l’information de circuler entre de multiples acteurs. Ces
+                   observatoires mettent en lumière les moyens par lesquels la création commune de données
+                   peut conduire à l’autonomisation politique des individus et des groupes marginalisés et, par
+                   conséquent, avoir de vastes conséquences sur le renforcement de la résilience et la création
+                   collective de connaissances dans les pays en développement.
+
+
+
+              37   Voir, par exemple, Bureau de la coordination des affaires humanitaires (BCAH), 2016, Building data
+                   responsibility into humanitarian action. OCHA Policy and Studies Series Think Brief, mai.
+              38   Karpouzoglou T., Zulkafli Z., Grainger S., Dewulf A., Buytaert W. et Hannah D. M., 2016,
+                   Environmental Virtual Observatories (EVOs) : Prospects for knowledge co-creation and resilience in
+                   the Information Age, Current Opinion in Environmental Sustainability, février, 18 : 40 à 48.
+
+
+GE.19-03574                                                                                                                        13
+E/CN.16/2019/3
+
+
+                 50.     L’accès aux réseaux et à l’équipement de communication au niveau local constitue
+                 également une difficulté. Par exemple, dans certaines régions, certains pays et certains
+                 groupes démographiques, les personnes qui ont accès à des équipements, tels que les
+                 téléphones mobiles, possèdent le plus souvent d’anciens modèles qui peuvent ne pas être
+                 compatibles avec les applications les plus récentes. D’un point de vue technique, les
+                 régions qui affichent un faible taux de pénétration de l’Internet peuvent gagner à disposer
+                 d’une large couverture téléphonique mobile qui permette de transmettre les données des
+                 capteurs par messagerie texte. Une autre composante importante de l’infrastructure
+                 numérique est la présence d’entreprises locales capables de financer et d’entretenir cette
+                 infrastructure, tant en ce qui concerne les logiciels que le matériel. Il est donc nécessaire de
+                 prendre des initiatives pour encourager et promouvoir ces entreprises.
+
+
+       B.        Difficultés sur le plan social : production et utilisation
+                 des connaissances
+
+                 51.     Les membres d’une société présentent différents niveaux de résilience, qui
+                 dépendent également des relations de pouvoir. La résilience n’est donc pas neutre ; elle est
+                 le reflet des normes sociales et des intérêts divergents qui existent au sein d’une société
+                 donnée. Par exemple, les solutions technologiques apportées en faveur de la résilience des
+                 sociétés devraient tenir compte du fait que, dans de nombreux contextes, les femmes et les
+                 filles ont un accès limité aux technologies. Les initiatives qui renforcent leurs compétences
+                 numériques et leur donnent accès aux technologies de l’information et de la communication
+                 pourraient autonomiser les femmes et les filles et contribuer à renforcer la résilience des
+                 sociétés. Un exemple à cet égard est un projet qui vise à autonomiser les femmes et les
+                 jeunes dans la zone économiquement défavorisée de Kibera à Nairobi, en particulier en
+                 faisant participer la population à la collecte de données et d’informations, ainsi qu’en
+                 dispensant une formation aux technologies de l’information et de la communication et à
+                 l’entreprenariat39.
+                 52.     Les projets visant à renforcer la résilience des communautés sont parfois entravés
+                 par des différences culturelles entre les scientifiques et les parties prenantes locales (par
+                 exemple, langue, coutumes, hiérarchies, égalité des sexes et traitement des étrangers). Les
+                 scientifiques considèrent généralement le renforcement de la résilience comme une activité
+                 distincte menée dans le cadre d’un projet plus vaste. Ils s’emploient souvent à élaborer des
+                 publications et à obtenir des subventions et manquent de temps et de ressources pour
+                 comprendre pleinement les langues, les dialectes, les normes sociales et les moyens de
+                 subsistance locaux. Les parties prenantes locales considèrent que le renforcement de la
+                 résilience a des effets mesurables sur les moyens de subsistance, mais elles peuvent être
+                 méfiantes ou frustrées si les interventions précédentes n’ont pas abouti à des améliorations
+                 tangibles.
+                 53.     Afin d’harmoniser ces points de vue, les projets axés sur la technologie visant à
+                 renforcer la résilience devraient intégrer les sciences sociales pour faire en sorte que les
+                 résultats des projets de recherche soient exploitables et aient des effets mesurables sur les
+                 moyens de subsistance locaux. L’organisation régulière de réunions ou d’ateliers entre
+                 scientifiques et parties prenantes locales peut également permettre de surmonter les
+                 difficultés culturelles et de régler les problèmes de confiance. Ces ateliers pourraient
+                 également comprendre une formation qui serait dispensée par les membres locaux du projet
+                 dans la langue locale, sous la direction scientifique des chefs de projet.
+                 54.     En outre, il est essentiel que les données et les connaissances générées soient utiles
+                 et exploitables sur le plan local. Elles devraient être transformées en résultats utiles (par
+                 exemple en des cartes des zones exposées à des glissements de terrain ou des tremblements
+                 de terre) et communiquées aux populations concernées. Parfois, les connaissances
+                 scientifiques produites pour éclairer la prise de décision au niveau local sont peu
+                 demandées, parce que les cadres politiques, juridiques et réglementaires existants
+                 empêchent les administrations locales de s’en servir pour mener une action.
+
+
+            39   Voir www.globalgiving.org/pfil/15295/projdoc.pdf.
+
+
+14                                                                                                                  GE.19-03574
+                                                                                                                  E/CN.16/2019/3
+
+
+       C.          Difficultés sur le marché et problèmes opérationnels :
+                   extensibilité et durabilité
+
+                   55.     L’un des problèmes liés aux systèmes d’innovation visant à bâtir des sociétés
+                   résilientes est que de nombreuses solutions restent au stade de prototype. Il y a un décalage
+                   entre l’adoption de dispositifs de prestation de services et l’amélioration du lien entre
+                   l’élaboration des prototypes et les entrepreneurs qui mettent un produit ou un service sur le
+                   marché. Une autre difficulté est la collaboration et la coordination des efforts dans les
+                   différents domaines, secteurs et marchés relevant des pouvoirs publics (comme la santé,
+                   l’infrastructure et l’éducation), actions qui sont nécessaires pour transposer les solutions de
+                   renforcement de la résilience, qui ont généralement des effets multiples dans différents
+                   domaines des objectifs de développement durable, à une échelle supérieure.
+                   56.      Le matériel comme les drones et les réseaux de capteurs est actuellement assez peu
+                   utilisé. Les coûts de la mise en œuvre et de la collecte des données, qui restent élevés dans
+                   les zones extrêmement reculées et appauvries, figurent parmi les difficultés à surmonter. De
+                   plus, il se peut que l’utilisation de composants standard ne permette pas de répondre
+                   correctement à d’importantes prescriptions relatives à l’usage de ce matériel.
+                   57.     La normalisation des outils et des méthodes utilisés dans les projets de science
+                   participative pourrait réduire les difficultés opérationnelles à surmonter. Par exemple, des
+                   initiatives comme CitizenScience.org40 et CitSci.org41 visent à renforcer la collaboration, la
+                   communauté et la crédibilité en exploitant les connaissances acquises par les professionnels
+                   et les chercheurs dans l’ensemble du domaine des sciences participatives.
+
+
+       D.          Élaboration de solutions résilientes dans le domaine de la science,
+                   de la technologie et de l’innovation
+
+                   58.    Les solutions technologiques devraient également être résilientes, et celles conçues
+                   pour les interventions d’urgence devraient être résistantes aux intempéries, à l’usure, à la
+                   pression et aux dommages. Elles devraient également afficher un rendement énergétique
+                   élevé et exploiter de plus en plus les sources d’énergie innovantes, en s’appuyant sur un
+                   réseau de produits et de services d’appoint.
+                   59.     La qualité, la conception, la distribution, l’articulation et le fonctionnement de
+                   l’infrastructure technologique influent sur sa résilience. La perturbation des infrastructures
+                   essentielles, comme les hôpitaux, les transports, l’électricité et l’infrastructure des
+                   technologies de l’information et de la communication, a des effets négatifs majeurs sur le
+                   tissu socioéconomique des sociétés. Du fait de la nature complexe et du degré élevé
+                   d’interconnexion de nombre d’entre elles, ces infrastructures sont vulnérables aux effets de
+                   réaction en chaîne pendant les crises. La forme et la structure des réseaux d’infrastructures
+                   influent sur leur résilience face aux chocs. De nombreux réseaux d’infrastructures sont
+                   créés par l’ajout permanent de nouveaux segments à des parties existantes du réseau qui
+                   sont déjà bien connectées. Ces réseaux sont résistants aux défaillances aléatoires mais
+                   vulnérables face aux défaillances des nœuds qui comportent de nombreuses liaisons. Par
+                   exemple, les réseaux de transport public résistent aux défaillances aléatoires, mais sont
+                   vulnérables face aux chocs ciblés qui perturbent les nœuds plus connectés 42.
+
+
+     VI. Collaboration internationale
+                   60.    La collaboration internationale joue un rôle essentiel dans la diffusion, à l’échelle
+                   mondiale, des sciences, des technologies et des innovations qui permettent de trouver des
+                   solutions technologiques locales de renforcement de la résilience. Cette collaboration
+
+              40   Voir www.citizenscience.org/about/ (date de consultation : 27 février 2019).
+              41   Voir www.citsci.org/CWIS438/Websites/CitSci/About.php?WebSiteID=7 (date de consultation :
+                   27 février 2019).
+              42   Berche B., Von Ferber C., Holovatch T. et Holovatch Y., 2009, Resilience of public transport
+                   networks against attacks, The European Physical Journal B, 71(1) : 125 à 137.
+
+
+GE.19-03574                                                                                                                  15
+E/CN.16/2019/3
+
+
+               permet de produire des informations sur les risques naturels transnationaux, tels que les
+               événements météorologiques ou les épidémies, qui alimentent les services nationaux et
+               locaux. Par exemple, l’Organisation météorologique mondiale fournit des informations en
+               ligne sur les cyclones tropicaux, les fortes pluies et la neige, les orages, les coups de vent et
+               le brouillard43. Le Programme des Nations Unies pour l’exploitation de l’information
+               d’origine spatiale aux fins de la gestion des catastrophes et des interventions d’urgence met
+               des connaissances scientifiques et des technologies spatiales au service de la gestion des
+               catastrophes44. Dans le domaine de la santé, le Cadre de préparation en cas de grippe
+               pandémique45 pour l’échange des virus grippaux et l’accès aux vaccins et aux autres
+               avantages, coordonné par l’Organisation mondiale de la Santé, permet de collecter et
+               d’analyser rapidement les virus grippaux, de renforcer les capacités nationales de
+               préparation et d’assurer un accès équitable aux antiviraux et vaccins.
+               61.     Les plateformes mondiales de recherche collaborative font progresser la conception
+               d’outils scientifiques qui contribuent à la résilience. Par exemple, la plateforme Precision
+               [Food and Drug Administration] FDA46 met en relation des experts du monde entier et
+               fournit des outils, des données et un cadre permettant de gérer les difficultés rencontrées à
+               l’échelle locale dans des domaines tels que le dépistage précoce pendant les épidémies de
+               pathogènes. Les plateformes de collaboration permettent également la collaboration avec
+               les pouvoirs publics et les professionnels. On peut citer par exemple la plateforme
+               100 Resilient Cities47, qui offre aux villes membres des orientations financières et
+               logistiques et des outils et services de renforcement de la résilience ; la plateforme Digital
+               Humanitarian Network48, qui s’appuie sur des bénévoles du numérique pour soutenir
+               l’action humanitaire ; et le Humanitarian Data Exchange49, qui est une plateforme ouverte
+               du Bureau de la coordination des affaires humanitaires permettant aux organisations
+               d’échanger des données sur les crises.
+               62.     Des initiatives nationales et internationales ont été lancées pour promouvoir la
+               participation de la population aux processus scientifiques, principalement par l’exécution et
+               le financement de projets de sciences participatives et la réalisation de travaux de recherche
+               sur les sciences participatives. Il s’agit notamment de l’European Citizen Science
+               Association, de la Citizen Science Association et de l’Australian Citizen Science
+               Association. En 2017, un réseau de réseaux baptisé Citizen Science Global Partnership a été
+               créé pour promouvoir et faire progresser les sciences participatives.
+               63.     La coopération au service du développement peut renforcer les capacités dans le
+               domaine des nouvelles technologies susceptibles d’accroître la résilience des sociétés. Les
+               statistiques relatives à l’aide publique au développement ne permettent pas de connaître le
+               montant de l’aide bilatérale spécifiquement allouée au renforcement de la résilience, mais le
+               montant de l’aide publique au développement affectée à l’infrastructure économique, qui
+               contribue à la résilience économique, est passé de 8 milliards de dollars en 2000 à
+               22 milliards de dollars en 201650. La collaboration internationale se traduit également par la
+               fourniture d’un appui en faveur du processus intergouvernemental de réduction des risques
+               de catastrophe et de renforcement de la résilience.
+               64.    Au sein du système des Nations Unies, plusieurs organismes mettent en œuvre des
+               programmes de promotion des solutions liées à la science, à la technologie et à l’innovation
+               qui contribuent directement à l’édification de sociétés résilientes. Les commissions
+               régionales encouragent la coopération en matière de science, de technologie et d’innovation
+               au service de la résilience. Par exemple, la Commission économique et sociale pour l’Asie
+               et le Pacifique est dotée d’un programme relatif aux technologies de l’information et de la
+               communication et à la réduction des risques de catastrophe qui englobe le renforcement de
+
+
+          43   Voir https://severe.worldweather.wmo.int/ (date de consultation : 27 février 2019).
+          44   Voir www.un-spider.org/ (date de consultation : 27 février 2019).
+          45   Voir www.who.int/influenza/pip/en/ (date de consultation : 27 février 2019).
+          46   Voir https://precision.fda.gov/ (date de consultation : 19 février 2019).
+          47   Voir www.100resilientcities.org/ (date de consultation : 19 février 2019).
+          48   Voir http://digitalhumanitarians.com/ (date de consultation : 19 février 2019).
+          49   Voir https://data.humdata.org/.
+          50   Voir https://data.oecd.org/oda/distribution-of-net-oda.htm (date de consultation : 27 février 2019).
+
+
+16                                                                                                                    GE.19-03574
+                                                                                                                  E/CN.16/2019/3
+
+
+                   la résilience, la surveillance de la sécheresse depuis l’espace, la coopération régionale sur
+                   les applications spatiales et les systèmes d’information spatiale et géographique pour la
+                   gestion des catastrophes. Un bon exemple de coopération est le Mécanisme régional de
+                   coopération pour le suivi et l’alerte rapide relatifs aux sécheresses, qui permet aux pays
+                   participants d’accéder gratuitement et rapidement aux données, produits et services spatiaux
+                   ainsi qu’à un appui à la formation et au renforcement des capacités. La Commission
+                   économique et sociale pour l’Asie occidentale encourage le renforcement de la résilience en
+                   contribuant à l’élaboration de stratégies nationales de transformation numérique,
+                   notamment en examinant les liens entre les technologies de l’information et de la
+                   communication, la gouvernance et la prévention des conflits. Au niveau local, les membres
+                   de l’équipe de pays des Nations Unies utilisent de nouvelles technologies
+                   commercialisables pour mettre en place des systèmes d’alerte rapide et de préparation et
+                   renforcer les capacités nationales de gestion des risques de catastrophe, tout en offrant leurs
+                   services d’experts dans des domaines tels que l’analyse et la cartographie de la vulnérabilité
+                   et l’appui aux systèmes de protection sociale 51.
+                   65.     Le Bureau des Nations Unies pour la prévention des catastrophes est le centre de
+                   coordination du système des Nations Unies pour la coordination de la prévention des
+                   catastrophes ; par conséquent, il crée des synergies entre les activités de prévention des
+                   catastrophes et les travaux menés dans les domaines socioéconomique et humanitaire et
+                   réunit des représentants des milieux scientifiques et universitaires et d’autres parties
+                   prenantes, y compris la société civile et les acteurs locaux, en mettant en place des
+                   plateformes régionales et mondiales de réduction des risques de catastrophe. Cet organisme
+                   gère également PreventionWeb52, qui est une plateforme en ligne de connaissances sur la
+                   réduction des risques de catastrophe, et élabore des produits tels que le rapport « Réduction
+                   du risque de catastrophe : Bilan mondial » grâce à des partenariats avec la communauté
+                   scientifique, la société civile et le secteur privé 53.
+                   66.     La Conférence du Bureau des Nations Unies pour la prévention des catastrophes sur
+                   la science et la technologie, tenue en janvier 2016 à Genève, a abouti à l’adoption de la
+                   Feuille de route scientifique et technologique à l’appui de la mise en œuvre du Cadre de
+                   Sendai pour la réduction des risques de catastrophe (2015-2030). Cette feuille de route
+                   présente les résultats escomptés et prévoit les actions à mener et les objectifs à atteindre au
+                   titre de chacune des priorités d’action du Cadre de Sendai. Elle prévoit aussi plusieurs
+                   actions transversales, comme le renforcement des capacités, l’équité de genre, la
+                   participation de la population, les partenariats public-privé et la cohérence ou
+                   l’harmonisation avec d’autres programmes mondiaux pour l’après-2015, tels que les
+                   objectifs de développement durable et la Convention-cadre des Nations Unies sur les
+                   changements climatiques, qui devront être liées aux actions menées par les autres parties
+                   prenantes dans le cadre de l’application du Cadre de Sendai.
+                   67.     L’action menée par les acteurs nationaux et internationaux a donné des résultats
+                   concrets, mais il reste encore beaucoup à faire pour mettre la science, la technologie et
+                   l’innovation au service de la résilience des sociétés, en particulier compte tenu des
+                   technologies de pointe et des changements technologiques rapides. Par exemple, afin de
+                   sensibiliser l’opinion et de renforcer les capacités nationales, il est nécessaire de
+                   promouvoir activement des cas pratiques d’utilisation de nouvelles technologies de pointe
+                   commercialisables pour renforcer la résilience des sociétés par le biais de produits axés sur
+                   le savoir et d’activités d’échange, et de promouvoir de nouveaux partenariats et une
+                   collaboration internationale pour renforcer les capacités d’utilisation de ces technologies à
+                   des fins de résilience, notamment grâce aux sciences participatives. Il faudrait faire davantage
+                   pour promouvoir la participation des femmes et des jeunes à l’élaboration et à la mise en
+                   œuvre d’approches novatrices en matière de résilience des sociétés. La Commission de la
+                   science et de la technique au service du développement peut jouer un rôle déterminant à cet
+                   égard, étant donné qu’elle occupe, au sein du système des Nations Unies, la position
+                   particulière d’instance intergouvernementale principale chargée d’examiner les questions
+                   relatives à la science, à la technologie, à l’innovation et au développement.
+
+
+              51   Voir www1.wfp.org/resilience-building (date de consultation : 20 février 2019).
+              52   Voir www.preventionweb.net/english/ (date de consultation : 20 février 2019).
+              53   Voir www.unisdr.org/we/inform/gar (date de consultation : 27 février 2019).
+
+
+GE.19-03574                                                                                                                  17
+E/CN.16/2019/3
+
+
+     VII. Propositions soumises à l’examen des États membres
+          et de la Commission de la science et de la technique au
+          service du développement à sa vingt-deuxième session
+             68.    La science, la technologie et l’innovation jouent un rôle déterminant dans le
+             renforcement de la résilience des sociétés. De nouvelles connaissances qui améliorent la
+             compréhension des mécanismes et des moteurs de la résilience des sociétés sont produites
+             dans divers domaines scientifiques. Les nouvelles technologies commercialisables créent
+             des possibilités novatrices d’accroître la résilience économique, sociale et
+             environnementale, et les nouvelles approches de l’innovation peuvent réunir des acteurs
+             non traditionnels de l’innovation afin d’unir leurs efforts et de mettre en commun leurs
+             ressources en faveur de la résilience des sociétés.
+             69.    Les États membres pourraient envisager de prendre les mesures suivantes :
+                     a)     Soutenir pleinement l’élaboration de solutions fondées sur la science, la
+             technologie et l’innovation en faveur du renforcement de la résilience, notamment en
+             faisant progresser la mise en œuvre du Cadre de Sendai pour la réduction des risques de
+             catastrophe (2015-2030) et du Programme de développement durable à l’horizon 2030 et la
+             réalisation des objectifs de développement durable ;
+                     b)    Concevoir et mettre en œuvre des politiques de la science, de la technologie
+             et de l’innovation qui contribuent à bâtir des sociétés résilientes, notamment par la création
+             d’un environnement propice à un système d’innovation axé sur la résilience ;
+                    c)      Harmoniser les politiques de la science, de la technologie et de l’innovation
+             avec les politiques de santé publique, de gestion des catastrophes et d’autres politiques
+             pertinentes afin qu’elles permettent de bâtir des sociétés résilientes ;
+                     d)     Élaborer sans exclusive les stratégies fondées sur la science, la technologie et
+             l’innovation au service de la résilience. Les solutions fondées sur la science, la technologie
+             et l’innovation qui vise à renforcer la résilience des sociétés devraient être ouvertes et
+             garantir la participation des plus pauvres et des plus vulnérables. Il est capital de faciliter la
+             participation des populations locales à la création des innovations connexes, notamment des
+             innovations sociales ;
+                    e)      Créer des plateformes nationales ou renforcer les plateformes nationales
+             existantes afin que la science, la technologie et l’innovation soient mises de manière plus
+             efficace au service de la résilience ;
+                     f)     Renforcer les programmes de recherche concernant les causes profondes, les
+             mécanismes et les facteurs qui influent sur l’utilisation de la science, de la technologie et de
+             l’innovation au service du renforcement de la résilience des sociétés, afin d’améliorer
+             l’efficacité des actions fondées sur la science, la technologie et l’innovation ;
+                    g)      Promouvoir l’utilisation d’outils scientifiques permettant de fournir et
+             d’échanger des informations sur les risques à différentes échelles avant, pendant et après les
+             chocs, afin d’accroître la résilience grâce à l’amélioration de la préparation et des capacités
+             d’adaptation ;
+                    h)     Investir dans des infrastructures technologiques habilitantes, telles que les
+             technologies de l’information et de la communication et l’électricité, en s’attachant
+             particulièrement à assurer un accès abordable et à surmonter la fracture numérique au
+             niveau géographique, entre les sexes, entre les générations et sur le plan des revenus.
+             70.    La communauté internationale souhaitera peut-être examiner les propositions
+             suivantes :
+                    a)     Promouvoir et mettre en œuvre des méthodes de recherche participative et
+             une collaboration scientifique interdisciplinaire et transdisciplinaire afin de mieux
+             comprendre la résilience des sociétés, en tenant compte de la prévention intégrée des
+             catastrophes et des transformations durables ;
+
+
+
+
+18                                                                                                                GE.19-03574
+                                                                                                             E/CN.16/2019/3
+
+
+                      b)     Prendre en compte et utiliser systématiquement les savoirs traditionnels,
+              locaux et autochtones dans le cadre des travaux de recherche scientifique axés sur la
+              résilience des sociétés ;
+                      c)     Élaborer un cadre analytique pour la prise en compte des risques de
+              catastrophes technologiques déclenchées par des aléas naturels dans les stratégies visant à
+              bâtir des sociétés résilientes ;
+                     d)     Tirer parti de la participation du secteur privé au cycle de l’innovation pour
+              créer de nouveaux produits et services en faveur de la résilience des sociétés ;
+                     e)     Utiliser des mécanismes tels que les pépinières d’entreprises, les
+              accélérateurs d’entreprises, les laboratoires d’innovation, les marchés et les innovations
+              ouvertes, populaires et sociales afin de promouvoir la création de nouveaux produits et
+              services en faveur de la résilience des sociétés ;
+                      f)     Promouvoir un dialogue ouvert sur la résilience entre les secteurs
+              scientifiques et technologiques et les décideurs, faciliter la constitution de réseaux entre ces
+              acteurs et créer et mettre en œuvre un cadre systématique dans lequel les questions liées à la
+              résilience seront prises en compte dans le cadre de la planification et du développement
+              fondés sur des données scientifiques ;
+                      g)     Promouvoir les initiatives de science participative et renforcer la capacité des
+              groupes sociaux et des citoyens de collecter, utiliser et analyser les données grâce à
+              l’allocation d’un budget, à la planification et l’exécution de programmes et de projets, et à
+              la diffusion des résultats des sciences participatives auprès des instances mondiales ;
+                     h)     Intégrer les sciences participatives dans les modalités de soutien au processus
+              d’élaboration des politiques par l’application de la science ;
+                    i)      Promouvoir l’utilisation des données acquises dans le cadre d’initiatives
+              fondées sur les sciences participatives d’une manière qui soit respectueuse des droits de la
+              population, en particulier du droit au respect de la vie privée ;
+                      j)     Promouvoir la mise en place de plateformes de coordination et de
+              compilation des données recueillies dans le cadre de projets fondés sur les sciences
+              participatives, afin que ces données puissent être utilisées dans le cadre d’autres initiatives
+              liées au développement ;
+                     k)      Établir des liens entre les sciences participatives et les objectifs de
+              développement durable et élaborer des programmes et des projets relatifs à ces sciences et à
+              ces objectifs qui porteraient notamment sur le renforcement de la résilience, compte tenu
+              des priorités des groupes sociaux vulnérables ;
+                      l)     Constituer des dossiers sur les projets fondés sur la science, la technologie et
+              l’innovation au service de la résilience et sur les sciences participatives et mettre les
+              résultats de ces projets à la disposition du public afin de faciliter l’apprentissage collectif
+              dans d’autres contextes.
+              71.    La Commission est encouragée à :
+                     a)      Faciliter les partenariats bilatéraux et multilatéraux Nord-Sud et Sud-Sud qui
+              contribuent à renforcer les capacités en matière de science, de technologie et d’innovation
+              au service de la résilience, notamment dans le cadre des sciences participatives ;
+                     b)     Promouvoir divers types de science, de technologie et d’innovation efficaces
+              au service de la résilience des sociétés, partager des expériences, des cas et des exemples
+              concrets de résilience fondés sur la science, la technologie et l’innovation grâce à diverses
+              formes de collaboration internationale et d’activités d’échange ;
+                     c)     Promouvoir les sciences participatives, y compris en se fondant sur ces
+              sciences pour contribuer aux thèmes prioritaires ;
+                      d)     Motiver la communauté mondiale à adopter des politiques et des stratégies
+              qui encouragent les femmes et les jeunes à participer à des approches novatrices en matière
+              de résilience, notamment dans le cadre des sciences participatives.
+
+
+
+
+GE.19-03574                                                                                                             19
+

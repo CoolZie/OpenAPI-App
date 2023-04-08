@@ -1,6 +1,7 @@
 const express = require("express");
-const { OpenAI } = require("langchain/llms");
+const { OpenAI } = require("langchain");
 const { OPENAI_API_KEY } = require("./config/config-openapi");
+const {  embeddingsFile } = require("./openapi");
 const app = express();
 const port = 3000;
 
@@ -9,10 +10,11 @@ app.get("/", async (req, res) => {
   const response = await model.call(
     "What would be a good company name a company that makes colorful socks?"
   ).then(r=>{
-    console.log(r);
+    res.send(r);
   });
-  
-  res.send("");
+});
+app.get("/embemdeFile", (req, res) => {
+    embeddingsFile()
 });
 
 app.listen(port, () => {
