@@ -5,8 +5,11 @@ const port = 3000
 
 
 app.get('/', (req, res) => {
-    console.log(example());
-  res.send("example")
+    example().then(data=>{
+        console.log(data);
+        res.send(data)
+    })
+  
 })
 
 
