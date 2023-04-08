@@ -1,25 +1,37 @@
 const express = require("express");
-const { OpenAI } = require("langchain");
-const { OPENAI_API_KEY } = require("./config/config-openapi");
-const { embeddingsFile } = require("./openapi/loaderFileTxt");
 const { promptQA } = require("./openapi/prompt");
 const app = express();
 const bodyParser = require('body-parser');
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
+const multer  = require('multer');
+const { embeddingsFileTxt,embeddingsFilePDF } = require("./openapi/loaderFileTxt");
+var path = require('path')
+var storage = multer.diskStorage({
+    destination: function (req, file, cb) {
+      cb(null, 'uploads/')
+    },
+    filename: function (req, file, cb) {
+      cb(null, "doc" + path.extname(file.originalname)) 
+    }
+  })
+const upload = multer({ storage: storage })
+
 const port = 3000;
 
 app.get("/", async (req, res) => {
-  const model = new OpenAI({ openAIApiKey:OPENAI_API_KEY, temperature: 0.9 });
-  const response = await model.call(
-    "What would be a good company name a company that makes colorful socks?"
-  ).then(r=>{
-    res.send(r);
-  });
+  res.send("Welcome")
 });
-app.get("/embemdeFile", (req, res) => {
-    embeddingsFile()
-});
+
+app.post('/files/add', upload.single('fichier'), async function (req, res) {
+    if(req.file.originalname.includes(".pdf")){
+        embeddingsFilePDF()
+    }
+    if(req.file.originalname.includes(".txt")){
+        embeddingsFileTxt()
+    }
+})
+
 app.post("/prompt", (req, res) => {
     console.log(req.body.prompt);
     let result = promptQA(req.body.prompt);
